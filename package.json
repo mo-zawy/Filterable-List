@@ -1,0 +1,19 @@
+{
+  "name": "filterple-list",
+  "version": "1.0.0",
+  "description": "a filter list useing bootstrap and vanilla js ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "mohamed elsawy",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
